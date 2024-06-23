@@ -1,0 +1,41 @@
+
+VCF2Dis: A new simple and efficient software to calculate p-distance matrix based Variant Call Format
+
+
+1)  Introduction
+------------
+
+This software relies on two other library packages [zlib]
+
+----------------------  zlib   infomation ----------------------------
+If  Lib [zlib] do not work
+you can download form this website and install it
+http://www.zlib.net/
+R pagkeage
+</br>[R](https://www.r-project.org/) with [ape](https://cran.r-project.org/web/packages/ape/index.html),[dplyr](https://cran.r-project.org/web/packages/dplyr/index.html) and [ggtree](https://www.bioconductor.org/packages/release/bioc/html/ggtree.html) are recommended
+
+2) linux/Unix/MacOS INSTALL
+--------------------------------------
+
+Just execute as follows :
+                         tar -zxvf  VCF2DisXXX.tar.gz
+                         cd VCF2DisXXX.tar.gz;
+                         sh make.sh
+                         ./bin/VCF2Dis  # VCF2Dis_single  VCF2Dis_multi
+
+#Note: If fail to link,try to re-install the libraries zlib
+#if Link do not work ,try Re-install the zlib librarys and copy them to the library Dir
+
+                     VCF2Dis-xx/src/include/zlib 
+
+
+4) Contact
+email: hewm2008@gmail.com / hewm2008@qq.com
+join the QQ Group : 125293663
+
+
+
+######################swimming in the sky and flying in the sea ########################### ##
+
+
+
