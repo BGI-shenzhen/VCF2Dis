@@ -1,0 +1,4 @@
+f0b4a4cd3faaf7a2350a1f90a1f10425  RunFig1.sh
+1e06e31ad89bd21261f4e836851fe000  pop.info
+e81e0009a9bd007293028b653a0afc1d  sample.group
+646567733b678371b4f7a0ff1b6f28ed  subsample203.list
